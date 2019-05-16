@@ -6,16 +6,16 @@ cookiecutterpackage
 .. image:: https://img.shields.io/pypi/v/cookiecutterpackage.svg
         :target: https://pypi.python.org/pypi/cookiecutterpackage
 
-.. image:: https://img.shields.io/travis/zepmanbc/cookiecutterpackage.svg
-        :target: https://travis-ci.org/zepmanbc/cookiecutterpackage
+.. image:: https://img.shields.io/travis/Zepmanbc/cookiecutterpackage.svg
+        :target: https://travis-ci.org/Zepmanbc/cookiecutterpackage
 
 .. image:: https://readthedocs.org/projects/cookiecutterpackage/badge/?version=latest
         :target: https://cookiecutterpackage.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/zepmanbc/cookiecutterpackage/shield.svg
-     :target: https://pyup.io/repos/github/zepmanbc/cookiecutterpackage/
+.. image:: https://pyup.io/repos/github/Zepmanbc/cookiecutterpackage/shield.svg
+     :target: https://pyup.io/repos/github/Zepmanbc/cookiecutterpackage/
      :alt: Updates
 
 
