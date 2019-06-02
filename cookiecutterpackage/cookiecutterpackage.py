@@ -12,4 +12,5 @@ def function_with_docstring():
         nothing
     """
     x = 2
+    print("plop")
     return None
